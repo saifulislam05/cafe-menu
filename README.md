@@ -49,7 +49,7 @@ The `<img>` tag is used to display the logo and item images. The `src` attribute
 - `margin-top: -25px;`: Adjusts the top margin of images by -25 pixels.
 
 ### `hr` Selector:
-- `height: 2px;`: Sets the height of horizontal lines (<hr>) to 2 pixels.
+- `height: 2px;`: Sets the height of horizontal lines `<hr>` to 2 pixels.
 - `background-color: brown;`: Applies a brown background color to horizontal lines.
 - `border-color: brown;`: Sets the border color of horizontal lines to brown.
 

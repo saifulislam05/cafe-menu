@@ -23,12 +23,12 @@ The `<img>` tag is used to display the logo and item images. The `src` attribute
 - `padding: 20px;`: Adds 20 pixels of padding to all sides of the page content.
 
 ### `h1` Selector:
-- `font-size: 40px;`: Sets the font size of all main headings (<h1>) to 40 pixels.
+- `font-size: 40px;`: Sets the font size of all main headings `<h1>` to 40 pixels.
 - `margin-top: 0;`: Removes the default top margin of main headings.
 - `margin-bottom: 15px;`: Adds 15 pixels of margin at the bottom of main headings.
 
 ### `h2` Selector:
-- `font-size: 30px;`: Sets the font size of all subheadings (<h2>) to 30 pixels.
+- `font-size: 30px;`: Sets the font size of all subheadings `<h2>` to 30 pixels.
 
 ### `.established` Class Selector:
 - `font-style: italic;`: Applies italic style to elements with the class `.established`.
